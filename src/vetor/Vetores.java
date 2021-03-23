@@ -18,6 +18,7 @@ public class Vetores {
 		{
 			System.out.println("x["+i+"]="+x[i]);
 		}	
+		System.out.println("Olá");
 	}
 
 }
